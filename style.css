@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.heading-keycode {
+    font-size: 30px;
+}
+
+.main-keycode {
+    font-size: 200px;
+}
+
+.key-name {
+    font-weight: bold;
+}
+
+.key-info {
+    font-size: 20px;
+}
